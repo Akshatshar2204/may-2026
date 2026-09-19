@@ -1,7 +1,7 @@
-#nojs
-name: Deploying the application using echo statement for understanding the rolling update
 
-on: hub 
+name: Rolling Update Deployment
+
+on:
   push:
     branches:
       - main
